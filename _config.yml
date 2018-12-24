@@ -3,15 +3,15 @@
 
 # Site settings
 title: LIONOWL
-description: |
-  Another fine responsive
-  site template freebie
+description: |Test1
+  Test2
+  Test3
   crafted by [HTML5 UP](http://html5up.net)
-owner: Your Name # or company name
+owner: Lionowl # or company name
 first_published: 2016 # if migrating another site, the year of your first publish
 email: your-email@domain.com
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://lionowl.com" # the base hostname & protocol for your site
 social:
   twitter: https://twitter.com/<username>
   github: https://github.com/<username>
