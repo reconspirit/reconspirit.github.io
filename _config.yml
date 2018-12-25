@@ -2,25 +2,21 @@
 #
 
 # Site settings
-title: LIONOWL
-description: |Test1
-  Test2
-  Test3
+title: Lionwol
+description: |small biography page about me
   crafted by [HTML5 UP](http://html5up.net)
 owner: Lionowl # or company name
-first_published: 2016 # if migrating another site, the year of your first publish
-email: your-email@domain.com
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://lionowl.com" # the base hostname & protocol for your site
+first_published: 2018 # if migrating another site, the year of your first publish
+email: lionowl.training@gmail.com
+baseurl: "home" # the subpath of your site, e.g. /blog
+url: "http://www.lionowl.com" # the base hostname & protocol for your site
 social:
-  twitter: https://twitter.com/<username>
-  github: https://github.com/<username>
-  linkedin-square: https://linkedin.com/in/<username>
-  facebook-official: https://facebook.com/<username>
-  google-plus-square: https://plus.google.com/u/0/+<username>
+  #linkedin-square:
+  #facebook-official:
+  #google-plus-square:
   #email: /contact/
   #flickr:
-  #instagram:
+  instagram-square: https://www.instagram.com/lionowl.training
   #youtube-square:
   #spotify:
   #stack-overflow:
